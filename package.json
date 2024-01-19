@@ -1,7 +1,7 @@
 {
-  "name": "js-conditions-and-booleans_demo-start",
+  "name": "js-functions_2_demo-start",
   "version": "0.0.0-unreleased",
-  "description": "JS Conditions and Booleans: Demo Start",
+  "description": "JS Functions II: Demo Start",
   "main": "index.js",
   "type": "module",
   "scripts": {
